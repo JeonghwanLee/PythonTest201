@@ -8,8 +8,7 @@ correlation coefficient between A and B derived from their return series. Then, 
 satisfying the following conditions:
  
 Correlation between any pair of stock in the same cluster must be higher than pair of stocks from
-different cluster. For example, A and B are from one cluster and C are for another cluster; Corr(A,B)
->= Corr(A,C) and Corr(A,B) >= Corr(B,C)
+different cluster. For example, A and B are from one cluster and C are for another cluster; Corr(A,B)\>= Corr(A,C) and Corr(A,B) >= Corr(B,C)
  
 Then, you are now supposed to find clusters defined above to optimize the following objective
 functions.
